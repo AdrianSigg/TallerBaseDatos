@@ -34,7 +34,7 @@
         <footer>
             <div class="autor">
                 <p>Autor: <br><br>
-                    Luis Adrian Casillas Ornelas <br>
+                    Magaly Idolisa Rojas Silva <br>
             </div>
         </footer>
     </div>

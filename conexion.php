@@ -2,7 +2,7 @@
 //Se pasa el nombre del servidor
 $nombreServer = 'localhost';
 //Se define el nombre de la base de datos, su usuario y contraseña
-$nombreBD = "Residencias";
+$nombreBD = "residencias";
 $usuarioBD = "docente";
 $passwordBD = "1234";
 //Se crea la conexión a la base de datos usando mysqli
